@@ -28,10 +28,13 @@
    ```bash
    git clone https://github.com/amirfaramarzi76/interview_task.git
 2.سپس سرور را از طریق CMD در پوشه اپ سرور با دستور:
-'''bash 
+ ```bash
 start python server
+```
+
 ران کنید
 و سپس در ترمینال پروژه را با دستور 
-'''bash 
+ ```bash
 python -m manage runserver
+```
 اجرا کنید و سپس فایل json را اپلود کنید.
