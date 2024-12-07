@@ -19,8 +19,8 @@
 - Python نسخه 3
 - pip
 - Django
--pyzmq
--subprocess
+- pyzmq
+- subprocess
 
 ### مراحل نصب:
 
